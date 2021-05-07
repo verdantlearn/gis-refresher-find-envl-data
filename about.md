@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<!-- This doesn't show up anywhere yet - need add it to modules list but not sure how to do this for file hosted within CIAB repo itself -->
 
 ## About VerdantLearn
 

@@ -3,23 +3,23 @@ layout: index
 published: true
 ---
 
-Welcome to VerdantLearn's latest open online course in techniques for biodiversity conservation!
+Welcome to this short refresher course on finding and using free environmental spatial data, for use in wildlife conservation!
 
-You can navigate through the course using the menu bar at the top of this page 
+This course will run 10-14 May 2021  
 
-<br> 
-
-#### Other learning opportunities
- ❤️
-
-* GIS refresher courses sign-up
-* OE4BW sign-up
-* Join our [mailing list](https://verdantlearn-gis-refreshers-may2021.webflow.io/maillist) to keep up-to-date
+You can navigate through the course using the menu bar at the top of this page, starting with 'About'
 
 <br> 
 
-#### Need some help?
-Visit our [community forum](forum url) is a great place to ask questions or find help when you get stuck.  Feel free to post there anytime!
+This course is authored and taught by Lucy Tallents, director of VerdantLearn.  For more information about Lucy, see her [LinkedIn profile](https://uk.linkedin.com/in/lucytallents) or [blog](https://www.lucytallents.com/tags)
+
+
 
 <br> 
+
+## Other learning opportunities
+
+
+* Join our [mailing list](https://verdantlearn-gis-refreshers-may2021.webflow.io/maillist) to receive alerts about our upcoming learning opportunities ❤️
+
 
