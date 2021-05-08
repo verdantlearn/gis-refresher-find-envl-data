@@ -9,6 +9,3 @@ By the end of this refresher course, you will be able to:
 3. Evaluate the suitability of data sources
 4. Download and view your chosen data in QGIS
 5. *Optional: Extract a subset by clipping or spatial join*
-
-
-<br>
