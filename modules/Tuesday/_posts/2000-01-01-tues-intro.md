@@ -1,6 +1,5 @@
 ---
 title: Tuesday intro
-published: false
 ---
 
 ## Learning objective
