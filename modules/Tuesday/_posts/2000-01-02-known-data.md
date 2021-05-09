@@ -1,6 +1,5 @@
 ---
 title: Known resources
-published: false
 ---
 
 ## Share known data sources

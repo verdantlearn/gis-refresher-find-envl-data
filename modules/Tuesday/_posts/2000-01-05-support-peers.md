@@ -1,6 +1,5 @@
 ---
 title: Support peers
-published: false
 ---
 
 ## Support your peers
