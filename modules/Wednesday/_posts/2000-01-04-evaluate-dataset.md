@@ -1,10 +1,9 @@
 ---
 title: Evaluate a dataset
-published: false
 ---
 
 ## Evaluate your chosen dataset
-*15 minutes*
+*10-15 minutes*
 
 Upon closer inspection, does your chosen dataset fulfil your needs?  Has this more detailed look at the metadata helped you to be clearer in your mind what you are looking for, or refine your requirements?
 

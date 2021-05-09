@@ -1,6 +1,5 @@
 ---
 title: Inspect metadata
-published: false
 ---
 
 ## Inspect the metadata

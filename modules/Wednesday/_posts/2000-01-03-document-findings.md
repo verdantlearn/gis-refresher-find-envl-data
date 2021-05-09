@@ -1,6 +1,5 @@
 ---
 title: Document the details
-published: false
 ---
 
 ## Document the details
