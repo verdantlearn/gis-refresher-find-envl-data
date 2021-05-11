@@ -1,6 +1,5 @@
 ---
 title: Download data
-published: false
 ---
 
 ## Download your data

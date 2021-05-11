@@ -1,6 +1,5 @@
 ---
 title: Display in QGIS
-published: false
 ---
 
 ## Display your data in QGIS

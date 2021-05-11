@@ -1,6 +1,5 @@
 ---
 title: Load to QGIS
-published: false
 ---
 
 ## Load your data into QGIS
