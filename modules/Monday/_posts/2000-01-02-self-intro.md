@@ -12,7 +12,7 @@ Introduce yourself to everyone on VerdantLearn's first GIS refreshers course "Fi
 - Your current role and organisation
 - An example of how you use GIS.
 
-If you can't see the Padlet below, or prefer to view it full screen, go to [https://padlet.com/VerdantLearn_LT/GISRefresher1_ParticipantMap_May2021](https://padlet.com/VerdantLearn_LT/GISRefresher1_ParticipantMap_May2021)
+If you can't see the Padlet below :point_down: or prefer to view it full screen, go to [https://padlet.com/VerdantLearn_LT/GISRefresher1_ParticipantMap_May2021](https://padlet.com/VerdantLearn_LT/GISRefresher1_ParticipantMap_May2021)
 
 Take a moment to comment on someone else's post, to say hello and respond to their self-introduction
 
