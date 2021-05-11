@@ -1,9 +1,11 @@
 ---
-title: Load to QGIS
+title: Load into QGIS
 ---
 
 ## Load your data into QGIS
 *10 minutes*
+
+Now you've downloaded your chosen data to your computer, try to **load it into QGIS** 
 
 Some questions to help you manage this task and ask for help:
 - Is the dataset in a *familiar file format*?  For example, shapefiles (.shp) or GeoJSON for vector data; HDF or .img for raster data

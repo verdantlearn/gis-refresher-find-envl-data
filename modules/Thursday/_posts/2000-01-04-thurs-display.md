@@ -5,7 +5,9 @@ title: Display in QGIS
 ## Display your data in QGIS
 *10-15 minutes*
 
-If you're working with multiband remotely-sensed imagery, you may need to adjust how it's displayed in QGIS in order to make sense of it, or prepare for analysis such as classifying the image (not covered in this course).
+Finally, let's check that you can **display** your data properly
+
+If you're working with multiband remotely-sensed imagery, you may need to adjust how it's symbolised in QGIS in order to make sense of it, or prepare for analysis such as classifying the image (not covered in this course).
 
 When you view your data in QGIS, consider these questions:
 - Are the layers displayed in the *correct location*, overlaying with other, reference layers such as country boundaries or field sites?
