@@ -1,9 +1,8 @@
 ---
 title: Peer feedback
-published: false
 ---
 
-### Give feedback to a coursemate
+### Give feedback
 *10 minutes*
 
 Respond to one of your peers by **commenting** on their assignment post.  This should include four elements:

@@ -1,14 +1,15 @@
 ---
 title: Assignment
-published: false
 ---
 
 ## Your mini assignment
 *20 minutes*
 
-To demonstrate your progress this week, we ask you to submit a mini assignment.  This involves two elements:
+Submit a mini assignment to demonstrate your progress this week, comprised of two elements:
 > 1. A description of your experience alongside a screenshot of your dataset in QGIS
 > 2. Feedback to one of your peers (next page)
+
+<br>
 
 You can complete this assignment *even if you didn't succeed* in securing a suitable dataset!  Simply describe the closest data that you could find, or omit the screenshot and adapt your answers as suggested below.  It's just as important for us to talk about failure as success in our work, and figure out how we can learn from it together.  The data you need simply may not exist yet, or be affordable, or it may take you longer to find/download/process them.  We appreciate your honesty, and will harness it to improve the support we offer to help other conservationists succeed!
 
