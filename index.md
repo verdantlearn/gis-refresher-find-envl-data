@@ -7,7 +7,7 @@ Welcome to this short refresher course on finding and using free environmental s
 
 This course will run 10-14 May 2021  
 
-You can navigate through the course using the menu bar at the top of this page, starting with 'About'
+You can navigate through the course using the menu bar at the top of this page, starting with 'Pre-course'
 
 <br> 
 
